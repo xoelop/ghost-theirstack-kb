@@ -3603,6 +3603,10 @@ duplexer3@^0.1.4:
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
+"ease@github:TryGhost/ease#main":
+  version "1.0.0"
+  resolved "https://codeload.github.com/TryGhost/ease/tar.gz/c34ec98133d9097628a40aa1b0d1df18e133ce24"
+
 ecc-jsbn@~0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz#3a83a904e54353287874c564b7549386849a98c9"
@@ -7714,6 +7718,10 @@ pg-connection-string@2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/pg-connection-string/-/pg-connection-string-2.5.0.tgz#538cadd0f7e603fc09a12590f3b8a452c2c0cf34"
   integrity sha512-r5o/V/ORTA6TmUnyWZR9nCj1klXCO2CEKNRlVuJptZe85QuhFayC7WeMic7ndayT5IRIR0S0xFxFi2ousartlQ==
+
+"pico@github:TryGhost/pico#main":
+  version "1.0.0"
+  resolved "https://codeload.github.com/TryGhost/pico/tar.gz/09c34f1c11e5fd80ce8ebaa36ac660997a46365d"
 
 picocolors@^1.0.0:
   version "1.0.0"

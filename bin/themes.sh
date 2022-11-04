@@ -1,6 +1,8 @@
 themes=(
 	casper
 	lyra
+	pico
+	ease
 )
 
 mkdir -p content/themes/
